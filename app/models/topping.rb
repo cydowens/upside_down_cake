@@ -1,2 +1,0 @@
-class Topping < ApplicationRecord
-end

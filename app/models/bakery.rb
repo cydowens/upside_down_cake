@@ -1,2 +1,0 @@
-class Bakery < ApplicationRecord
-end
